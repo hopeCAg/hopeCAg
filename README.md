@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/hopeCAg/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Windows-11-STIG-Remediation](https://github.com/hopeCAg/Windows-11-STIG-Remediation-/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
