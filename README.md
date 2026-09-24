@@ -17,6 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/hopeCAg/vulnerability-management-program)**
+- **[MySQL Database Extortion](https://github.com/hopeCAg/Honeypot-VM-Analysis)**– Incident Response Report: Reconstructed a ransomware-style database extortion attack by correlating MySQL audit logs with Microsoft Defender telemetry, tracing the chain from internet-exposed MySQL/RDP and root credential compromise through data theft, database destruction, and log purging to detection five days later. Delivered a full IR report with timeline, IOCs, and KQL-mapped remediation steps.
   <br /> 
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
   
